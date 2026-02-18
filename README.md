@@ -16,14 +16,6 @@ The primary objective of this work is to improve segmentation quality by maximiz
 
 After multiple experimental training runs (1, 10 and 20 epochs), the best validation performance obtained is:
 
-| Metric            | Value  |
-|-------------------|--------|
-| Mean IoU          | 0.3603 |
-| Dice Score        | 0.5207 |
-| Pixel Accuracy    | 0.7123 |
-| Validation Loss   | 0.9501 |
-
-Training run at 20 epochs produced:
 
 | Metric            | Value  |
 |-------------------|--------|
@@ -31,6 +23,16 @@ Training run at 20 epochs produced:
 | Dice Score        | 0.5141 |
 | Pixel Accuracy    | 0.7082 |
 | Validation Loss   | 0.9556 |
+
+
+Training run at 20 epochs produced:
+
+| Metric            | Value  |
+|-------------------|--------|
+| Mean IoU          | 0.3603 |
+| Dice Score        | 0.5207 |
+| Pixel Accuracy    | 0.7123 |
+| Validation Loss   | 0.9501 |
 
 ---
 
