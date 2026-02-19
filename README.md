@@ -14,7 +14,7 @@ The primary objective of this work is to improve segmentation quality by maximiz
 
 ## 📊 2. Final Validation Performance
 
-After multiple experimental training runs (1, 10 and 20 epochs), the best validation performance obtained is:
+After multiple experimental training runs (10, 10 and 20 epochs), the best validation performance obtained is:
 
 
 | Metric            | Value  |
